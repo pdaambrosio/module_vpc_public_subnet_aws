@@ -1,9 +1,13 @@
 # Local .terraform directories
 **/.terraform/*
 
+# vscode
+.vscode/*
+
 # .tfstate files
 *.tfstate
 *.tfstate.*
+.terraform-docs.yml
 
 # Crash log files
 crash.log
